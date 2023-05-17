@@ -11,7 +11,7 @@ import std_msgs.msg
 import sensor_msgs.point_cloud2 as pc2
 from sensor_msgs.msg import PointCloud2
 from parse_xml import parseXML
-
+#check
 
 def load_pc_from_pcd(pcd_path):
     """Load PointCloud data from pcd file."""
